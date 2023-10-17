@@ -1,0 +1,43 @@
+﻿@page
+@model PhilippinesModel
+@{
+    ViewData["Title"] = "Welcome to The Philippines";
+}
+<link href="~/css/Philippines.css" rel="stylesheet" />
+<body>
+<div class="ewan">
+<h1>@ViewData["Title"]</h1>
+
+<p>Hello Madlang people, Mabuhay</p>
+
+<h2>This are the tourist spots in The Philippines</h2>
+        <div class="fs">
+            <h2>Fort Santiago in Intramuros, Manila</h2>
+            <img src="~/css/fort-santiago.jpg" />
+            <p>@ViewData["Variable1"]</p>
+        </div>
+
+        <div class="rp">
+            <h2>Rizal Park</h2>
+            <img src="~/css/aerial-national-flag-rizal-parkmanilaphilippines-085043845_prevstill.jpg" />
+            <p>@ViewData["Variable2"]</p>
+        </div>
+
+        <div class="bst">
+            <h2>Banaue Rice Terraces</h2>
+            <img src="~/css/1200px-Banaue-terrace.jpg" />
+            <p>@ViewData["Variable3"]</p>
+        </div>
+        <div class="bor">
+            <h2>Boracay</h2>
+            <img src="~/css/boracay.jpg" />
+            <p>@ViewData["Variable4"]</p>
+        </div>
+        <div class="vigan">
+            <h2>Vigan, Ilocos Norte</h2>
+            <img src="~/css/vigan.jpg" />
+            <p>@ViewData["Variable5"]</p>
+        </div>
+
+
+</body>

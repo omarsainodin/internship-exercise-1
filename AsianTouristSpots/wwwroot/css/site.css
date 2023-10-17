@@ -1,0 +1,27 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-image:radial-gradient(to right, red, orange);
+}
+
+.container {
+  background-image: cross-fade(to right, red, orange);
+}
+
+.nav-item {
+    color:aliceblue;
+}

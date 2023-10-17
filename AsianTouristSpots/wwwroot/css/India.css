@@ -1,0 +1,79 @@
+﻿body {
+    margin-bottom: 60px;
+    background-image: radial-gradient(green, white);
+    background-size: cover;
+    color: black;
+    text-align: center;
+    font-family: Papyrus;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 18px;
+    font-family: Papyrus;
+    font-weight: bold;
+}
+
+img {
+    align-content: center;
+    border-block: solid;
+    border-radius: 30px;
+    border-width: 5px;
+    max-width: 20%;
+}
+
+.mm {
+    border-block: solid;
+    background-image: radial-gradient(green, white, orange);
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+    text-decoration: underline;
+}
+
+.goa {
+    border-block: solid;
+    background-image: radial-gradient(green, white, orange);
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+    text-decoration: underline;
+}
+
+.jp {
+    border-block: solid;
+    background-image: radial-gradient(green, white, orange);
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+        font-family:Papyrus;
+    text-decoration: underline;
+}
+
+.bgl {
+    border-block: solid;
+    background-image: radial-gradient(green, white, orange);
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+    text-decoration: underline;
+}
+
+
+.up {
+    border-block: solid;
+    background-image: radial-gradient(green, white, orange);
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family:Papyrus;
+    text-decoration: underline;
+}

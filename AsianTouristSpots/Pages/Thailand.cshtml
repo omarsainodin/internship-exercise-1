@@ -1,0 +1,40 @@
+﻿@page
+@model ThailandModel
+@{
+    ViewData["Title"] = "Welcome to Thailand";
+}
+<link href="~/css/Thailand.css" rel="stylesheet" />
+
+<h1>@ViewData["Title"]</h1>
+
+<p>สวัสดียินดีต้อนรับสู่ประเทศไทย</p>
+<body>
+<h2>This are the tourist spots in Thailand</h2>
+<div class="bk">
+    <h2>Bangkok, Thailand</h2>
+    <img src="~/css/BANGKOK .jpg "/>
+    <p>@ViewData["Variable11"]</p>
+</div>
+
+<div class="cm">
+    <h2>Chiang Mai, Thailand</h2>
+    <img src="~/css/download.jpg" />
+        <p>@ViewData["Variable12"]</p>
+</div>
+
+<div class="pk">
+    <h2>Phuket Old Town, Thailand</h2>
+    <img src="~/css/Phuket-Old-Town-Featured-Image.jpg" />
+        <p>@ViewData["Variable13"]</p>
+</div>
+<div class="ks">
+    <h2>Ko Samui, Thailand</h2>
+    <img src="~/css/44202281-city-56280-1767207b463.jpg" />
+    <p>@ViewData["Variable14"]</p>
+</div>
+<div class="pp">
+    <h2>Phi Phi Islands, Thailand</h2>
+    <img src="~/css/phiphi-island-edit.jpg" />
+        <p>@ViewData["Variable15"]</p>
+</div>
+</body>

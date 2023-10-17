@@ -1,0 +1,42 @@
+﻿@page
+@model IndiaModel
+@{
+    ViewData["Title"] = "Welcome to India";
+}
+<link href="~/css/India.css" rel="stylesheet" />
+<body>
+<h1>@ViewData["Title"]</h1>
+
+<p>नमस्ते, भारत में आपका स्वागत है</p>
+<p>namaste, bharat mein aapka swagat hai</p>
+
+    <h2>This are the tourist spots in India</h2>
+    <div class="mm">
+        <h2>Mumbai</h2>
+        <img src="~/css/mumbai.jpg" />
+        <p>@ViewData["Variable6"]</p>
+    </div>
+
+    <div class="goa">
+        <h2>Goa</h2>
+        <img src="~/css/aerial-national-flag-rizal-parkmanilaphilippines-085043845_prevstill.jpg" />
+        <p>@ViewData["Variable7"]</p>
+    </div>
+
+    <div class="jp">
+        <h2>Banaue Rice Terraces</h2>
+        <img src="~/css/170117152835-beautiful-india-hawa-mahal-jaipur-132721224.jpg" />
+        <p>@ViewData["Variable8"]</p>
+    </div>
+    <div class="bgl">
+        <h2>Bangalore</h2>
+        <img src="~/css/4bf3af6f41accf2a2c098bdbc5974ea6.jpg" />
+        <p>@ViewData["Variable9"]</p>
+    </div>
+    <div class="up">
+        <h2>Udaipur</h2>
+        <img src="~/css/jpg.jpg" />
+        <p>@ViewData["Variable10"]</p>
+    </div>
+
+</body>

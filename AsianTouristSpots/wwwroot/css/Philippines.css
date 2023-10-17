@@ -1,0 +1,69 @@
+﻿body {
+    margin-bottom: 60px;
+    background-image: radial-gradient( blue, white, red);
+    background-size: cover;
+    color: black;
+    text-align: center;
+    font-family: Papyrus;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 18px;
+    font-family: Papyrus;
+}
+
+img {
+    align-content: center;
+    border-block: solid;
+    border-radius: 30px;
+    border-width: 5px;
+    max-width: 20%;
+}
+
+.fs {
+    border-block: solid;
+    background-image: radial-gradient( blue, white);
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+}
+.rp {
+    border-block: solid;
+    background-image: radial-gradient( blue, white);
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+}
+.bst {
+    border-block: solid;
+    background-image: radial-gradient( blue, white);
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+}
+.bor {
+    border-block: solid;
+    background-image: radial-gradient( blue, white);
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+}
+.vigan {
+    border-block: solid;
+    background-image: radial-gradient( blue, white);
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+}

@@ -1,0 +1,79 @@
+﻿body {
+    margin-bottom: 60px;
+    background-image: radial-gradient( red, white, blue);
+    background-size: cover;
+    color: black;
+    text-align: center;
+    font-family: Papyrus;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 18px;
+    font-family: Papyrus;
+    font-weight: bold;
+}
+
+img {
+    align-content: center;
+    border-block: solid;
+    border-radius: 30px;
+    border-width: 5px;
+    max-width: 20%;
+}
+
+.bk {
+    border-block: solid;
+    background-color: blue;
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+    background-image: radial-gradient( white, blue);
+}
+
+
+.cm {
+    border-block: solid;
+    background-color: blue;
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+    background-image: radial-gradient( white, blue);
+}
+
+.pk {
+    border-block: solid;
+    background-color: blue;
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+    background-image: radial-gradient( white, blue);
+}
+
+
+.ks {
+    border-block: solid;
+    background-color: blue;
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    background-image: radial-gradient( white, blue);
+}
+
+.pp {
+    border-block: solid;
+    background-color: blue;
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 70px;
+    font-family: Papyrus;
+    background-image: radial-gradient( white, blue);
+}
